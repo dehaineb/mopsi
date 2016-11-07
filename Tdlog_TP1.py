@@ -1,5 +1,5 @@
 groups = {
-    1: { "Den", "England", "France",      "Sweden" },
+    1: { "Den", "Eng", "France",      "Sweden" },
     2: { "CIS",     "Germany", "Netherlands", "Scotland" }
 }
 
